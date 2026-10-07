@@ -5,3 +5,4 @@ Integrantes por el momento:
 - Cruzado Flores, Abel
 - Garcia Rosell Lara, Flavio Cesar
 - Perez Arteaga, Rodrigo Sebastián
+## Primera asistencia del grupo 
