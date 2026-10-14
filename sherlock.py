@@ -43,7 +43,7 @@ from sherlock_project.notify import QueryNotifyPrint
 from sherlock_project.sites import SitesInformation
 from colorama import init
 from argparse import ArgumentTypeError
-
+#holibolicamaronconcolitemetotrollitedejoenboli
 
 class SherlockFuturesSession(FuturesSession):
     def request(self, method, url, hooks=None, *args, **kwargs):
@@ -393,7 +393,7 @@ def sherlock(
 
         if error_text is not None:
             error_context = error_text
-
+#holiboli
         elif any(hitMsg in r.text for hitMsg in WAFHitMsgs):
             query_status = QueryStatus.WAF
 
