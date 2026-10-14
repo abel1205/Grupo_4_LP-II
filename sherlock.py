@@ -934,6 +934,8 @@ if __name__ == "__main__":
     main()
 
 
+# Esta línea es una prueba de si mi persona fcgrl puede editar
+# Esta línea es una prueba de si mi persona fcgrl puede editar una rama del repositorio en específico desde git bash
 # Esta línea es una pureba de si mi persona fcgrl puede editar
 # Esta línea es una prueba de su mi persona fcgrl puede editar desde el git bash
 # Prueba de edición con gitbash de Sebas desde Visual Studio Code
@@ -941,3 +943,5 @@ if __name__ == "__main__":
 
 # Comprobación de Edición desde repo clonado mediante git bash.
 # Confirmación de Abel.
+
+# creo un comit marcando como solucionado el conflicto de las filas 937-941
