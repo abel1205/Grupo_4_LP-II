@@ -936,3 +936,4 @@ if __name__ == "__main__":
 
 # Esta línea es una pureba de si mi persona fcgrl puede editar
 # Esta línea es una prueba de su mi persona fcgrl puede editar desde el git bash
+# Prueba de edición con gitbash de Sebas desde Visual Studio Code
