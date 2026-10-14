@@ -5,7 +5,12 @@ Integrantes por el momento:
 - Cruzado Flores, Abel
 - Garcia Rosell Lara, Flavio Cesar
 - Perez Arteaga, Rodrigo Sebastián
+<<<<<<< HEAD
 - Anie, Rodríguez
+=======
+- Rodriguez Vega, Anie Geraldine
+
+>>>>>>> anierv-patch-1
 
 
 Nota: Flavio Presente
@@ -13,3 +18,4 @@ Nota: Flavio Presente
 Noton gamer: Sebastian presente
 
 Se envió la invitación al usuario anierv como colaborador.
+"Desde branch a main"
