@@ -5,7 +5,7 @@ Integrantes por el momento:
 - Cruzado Flores, Abel
 - Garcia Rosell Lara, Flavio Cesar
 - Perez Arteaga, Rodrigo Sebastián
-
+- Anie, Rodríguez
 
 
 Nota: Flavio Presente
