@@ -5,13 +5,7 @@ Integrantes por el momento:
 - Cruzado Flores, Abel
 - Garcia Rosell Lara, Flavio Cesar
 - Perez Arteaga, Rodrigo Sebastián
-<<<<<<< HEAD
 - Anie, Rodríguez
-=======
-- Rodriguez Vega, Anie Geraldine
-
->>>>>>> anierv-patch-1
-
 
 Nota: Flavio Presente
 
