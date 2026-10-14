@@ -393,7 +393,7 @@ def sherlock(
 
         if error_text is not None:
             error_context = error_text
-
+#holiboli
         elif any(hitMsg in r.text for hitMsg in WAFHitMsgs):
             query_status = QueryStatus.WAF
 
