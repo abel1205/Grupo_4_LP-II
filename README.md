@@ -5,6 +5,7 @@ Integrantes por el momento:
 - Cruzado Flores, Abel
 - Garcia Rosell Lara, Flavio Cesar
 - Perez Arteaga, Rodrigo Sebastián
+- Rodriguez Vega, Anie Geraldine
 
 
 
