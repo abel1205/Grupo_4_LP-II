@@ -943,4 +943,8 @@ if __name__ == "__main__":
 # Comprobación de Edición desde repo clonado mediante git bash.
 # Confirmación de Abel.
 
-# creo un comit marcando como solucionado el conflicto de las filas 937-941
+
+
+
+
+# Sin bloqueo de main.
