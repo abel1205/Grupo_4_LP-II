@@ -939,3 +939,9 @@ if __name__ == "__main__":
 
 # Comprobación de Edición desde repo clonado mediante git bash.
 # Confirmación de Abel.
+
+
+
+
+
+# Sin bloqueo de main.
